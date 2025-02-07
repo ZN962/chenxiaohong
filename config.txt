@@ -10,6 +10,8 @@
 "user": ["oa_zt7JWzAEUo-ww6xCLtALc6-ac"],
 
 # 信息配置
+# 和风天气apikey
+"weather_key": "585ab35fce0a4b14aec79062635768a3",
 # 所在省份
 "province": "河南省",
 # 所在城市
